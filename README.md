@@ -19,8 +19,8 @@ The sample:
 - Node.js 22.5 or later
 - a SQLite.Encrypted SEE activation key valid for this platform and SQLite 3.54
 
-You can request an evaluation key at
-[sqlite.sourcegear.com/#evaluation](http://sqlite.sourcegear.com/#evaluation).
+Free fully-featured demo keys are available from
+[sqlite.sourcegear.com](https://sqlite.sourcegear.com/#evaluation).
 
 ## Install and run
 
