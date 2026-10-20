@@ -1,0 +1,19 @@
+{
+  "name": "sqlite-encrypted-node-local-service-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A localhost task API backed by SQLite.Encrypted",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "check": "node --check src/config.js && node --check src/database.js && node --check src/service.js && node --check src/server.js"
+  },
+  "dependencies": {
+    "@sqlite-encrypted/node": "3.54.0"
+  }
+}
